@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-// This is test comment.
+This is test comment.
 class MaxPalindrome
 {
     public static Boolean PalinDrome(String s)
